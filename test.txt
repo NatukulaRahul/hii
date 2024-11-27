@@ -3,4 +3,4 @@ this is feature1
 this is changed from linux
 conflict-1
 conflict-2
-conflict-3
+---SOLVED
